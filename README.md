@@ -1,1 +1,1 @@
-# This is a program to convert Celsius temperature to Fahrenheit Temperature
+# This is a program to convert Celsius Temperature to Fahrenheit Temperature
